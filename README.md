@@ -164,6 +164,5 @@ The project reinforced the critical importance of meticulous data preprocessing,
     * Seaborn: `https://seaborn.pydata.org/`
     * Streamlit: `https://streamlit.io/`
 * **Dataset Source:** `Dataset_final.csv` (If this dataset was sourced from a public repository like Kaggle, please provide the specific URL here).
-* *(Add any specific research papers, articles, or online courses that were instrumental in your learning or project development during the internship.)*
 
 ## THANK YOU
