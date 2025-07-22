@@ -96,8 +96,13 @@ The project follows a systematic procedure to ensure robust development and depl
     * The application's User Interface (UI) is designed for clarity, ease of interaction, and a professional appearance.
 
 ## Result
+<img width="1919" height="991" alt="Screenshot 2025-07-22 183418" src="https://github.com/user-attachments/assets/a0401d0f-40c2-4622-b879-57b81e65944e" />
+<img width="1919" height="1017" alt="Screenshot 2025-07-22 190027" src="https://github.com/user-attachments/assets/b0622158-2e52-4fe5-b8d7-0d4449e1a7ef" />
+<img width="1919" height="1018" alt="Screenshot 2025-07-22 190016" src="https://github.com/user-attachments/assets/74ad4db7-a499-4475-b35a-f895329cf5b6" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-22 184156" src="https://github.com/user-attachments/assets/3819f622-b679-46e7-a56c-51a94067a12a" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-22 184126" src="https://github.com/user-attachments/assets/d0a24a3f-661b-4cbe-8e25-a092d6c0ecee" />
 
-*(This section will contain screenshots and summary metrics. You will add these after running the project.)*
+
 
 * **Console Output of Model Evaluation:**
     * *(Insert Screenshot of the terminal output showing MAE, MSE, RMSE, and R2 scores after `python run_project.py` completes.)*
