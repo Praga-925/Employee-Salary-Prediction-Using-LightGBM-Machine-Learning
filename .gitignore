@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/  # Your virtual environment folder
+.ipynb_checkpoints/ # Jupyter Notebook checkpoints
+
+# IDEs
+.vscode/ # VS Code specific files (optional, but good practice)
+.idea/ # PyCharm specific files
+
+# Data
+data/*.csv # If you want to exclude the raw data (but for this project, you might want to include it)
+# If your dataset is very large and you don't want it on GitHub, uncomment the line above
+# For this project, it's small enough to include, so keep it commented or remove.
+
+# Models
+models/*.pkl # Your saved model file (lightgbm_model.pkl)
+# It's generally good practice NOT to upload large binary model files to Git.
+# Users can regenerate it by running run_project.py.
+# If you MUST include it (e.g., for quick demo), comment this line out.
+
+# Plots
+*.png # Your evaluation plots (actual_vs_predicted_salary_lightgbm.png, residuals_distribution_lightgbm.png)
+# These are generated outputs, so it's good practice to ignore them.
